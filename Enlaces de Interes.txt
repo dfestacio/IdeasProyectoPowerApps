@@ -1,0 +1,22 @@
+1. Demo Administrador de Proyectos
+demo.projeqtor.org/view/main.php
+
+
+
+2. Ejemplo Proyecto -  Mejor proyecto PowerApps Challeng
+Made It With Power Apps: Your Best App | Project management tool - YouTube
+www.youtube.com/watch?v=-9pHsywEsj4
+
+
+3. Ejemplo visualización Proyectos en PowerApps
+https://learn.microsoft.com/en-us/power-apps/guidance/patterns/project-management-pattern
+
+
+
+4. Carga de Archivos - PowerApps
+https://www.matthewdevaney.com/power-apps-easiest-way-to-upload-files-to-a-sharepoint-document-library/
+
+
+
+5. Ejemplo creación proyectos basico powerApps
+https://www.c-sharpcorner.com/article/project-management-application-using-powerapps-and-sharepoint-online/
